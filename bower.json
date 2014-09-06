@@ -1,16 +1,22 @@
 {
   "name": "easing.less",
+  "description": "LESS easing variables for CSS transitions",
   "version": "0.1.0",
-  "homepage": "https://github.com/matthewspencer/easing.less",
   "authors": [
     "Matthew Spencer <hello@thisismatthew.com>"
   ],
-  "description": "LESS easing variables for CSS transitions",
   "keywords": [
     "css",
     "less",
     "easing",
     "transitions"
+  ],
+  "homepage": "https://github.com/matthewspencer/easing.less",
+  "main": [
+    "easing.less"
+  ],
+  "ignore": [
+    "README.md"
   ],
   "license": "MIT"
 }

@@ -6,6 +6,6 @@ LESS easing variables for CSS transitions.
 
 With the [Bootstrap](https://github.com/twbs/bootstrap/) / [Preboot](https://github.com/mdo/preboot) transition mixin:
 
-```less
+```Less
 .transition(background-color 1s @easeInQuart);
 ```
